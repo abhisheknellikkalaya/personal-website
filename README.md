@@ -1,2 +1,2 @@
 # personal-website
-This is a trial version trying to build website using code
+This is a trial version of trying to build website using code
